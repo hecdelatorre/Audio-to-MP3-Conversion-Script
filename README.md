@@ -58,7 +58,7 @@ chmod +x index.sh
 You can run the script directly without cloning the repository using the following command:
 
 ```bash
-bash -c "$(curl -fsSL https://gitlab.com/hecdelatorre/audio-to-mp3-conversion-script/-/raw/main/index.sh)"
+bash -c "$(curl -fsSL https://gitlab.com/hecdelatorre/audio-to-mp3-conversion-script/-/raw/main/index-min.sh)"
 ```
 
 ## Usage
